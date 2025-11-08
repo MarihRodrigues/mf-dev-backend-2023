@@ -5,7 +5,7 @@
 namespace mf_dev_backend_2023.Migrations
 {
     /// <inheritdoc />
-    public partial class M01addTableVeiculo : Migration
+    public partial class Inicial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

@@ -11,8 +11,8 @@ using mf_dev_backend_2023.Models;
 namespace mf_dev_backend_2023.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251104195247_M01-addTableVeiculo")]
-    partial class M01addTableVeiculo
+    [Migration("20251105203926_Inicial")]
+    partial class Inicial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
